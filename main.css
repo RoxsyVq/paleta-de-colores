@@ -1,0 +1,40 @@
+.clear {
+  clear: both;
+}
+
+.color-paleta {
+  background-color: #003153;
+  padding: 15px;
+  width: 180px;
+}
+
+.color-s {
+  box-sizing: border-box;
+  width: 40px;
+  height: 40px;
+  float:left;
+  margin: 10px 10px 0 0;
+  border-radius: 100%;
+
+}
+.color-s.selected {
+  border: 2px solid #fff;
+}
+
+.color-paleta .break {
+  margin: 5px;
+}
+.btn {
+    
+}
+.result {
+  margin: 0px;
+  height: 150px;
+ 
+}
+
+.test { margin: 0 auto; }
+
+body, html {
+  background-color: #003153 !important;
+}
